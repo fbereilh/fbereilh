@@ -106,7 +106,8 @@ h1{
   background:#26C6DA;
 }
 #image{
-  width: 60vh;
+  margin: 50px:
+  width: 40vh;
   border-radius: 50%;
 }
 @media (max-width: 400px) {
