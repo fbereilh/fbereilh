@@ -14,6 +14,7 @@ body {
   position: fixed;
   top: 0px;
   left: 0px;
+  padding-left: 20px;
 }
 .nav-link {
   width: 150px;
