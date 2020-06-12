@@ -6,7 +6,7 @@ body {
 
 #navbar {
   display: flex;
-  justify-content: flex-end;
+  justify-content: flex-start;
   align-items: center;
   background: #EF5350;
   height: 40px;
